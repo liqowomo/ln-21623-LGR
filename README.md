@@ -3,6 +3,7 @@
 
 ----
 1. [W ?](#w-)
+2. [Examples](#examples)
 
 ----
 
@@ -10,3 +11,13 @@
 
 1. Testing out `curl` download and installs from source 
 
+# Examples 
+
+1. These are the examples 
+
+```sh 
+https://getfoundry.sh/
+```
+- This website asks you to dl using `curl` 
+
+$\Huge Actual \ Code \ pussy$ 
