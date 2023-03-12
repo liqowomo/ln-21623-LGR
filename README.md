@@ -4,6 +4,7 @@
 ----
 1. [W ?](#w-)
 2. [Examples](#examples)
+   1. [Special Notes](#special-notes)
 
 ----
 
@@ -89,3 +90,11 @@ echo "Then, simply run 'foundryup' to install Foundry."
 ```
 
 </details>
+
+> Location of above file is [`https://github.com/foundry-rs/foundry/blob/master/foundryup/install`](https://github.com/foundry-rs/foundry/blob/master/foundryup/install) - This is the actual curl script
+
+
+
+## Special Notes 
+
+1. The above `.sh` file is store as a github gist 
