@@ -4,7 +4,8 @@
 ----
 1. [W ?](#w-)
 2. [Examples](#examples)
-   1. [Special Notes](#special-notes)
+   1. [Reference Source Dir](#reference-source-dir)
+   2. [Special Notes](#special-notes)
 
 ----
 
@@ -94,11 +95,24 @@ echo "Then, simply run 'foundryup' to install Foundry."
 > Location of above file is [`https://github.com/foundry-rs/foundry/blob/master/foundryup/install`](https://github.com/foundry-rs/foundry/blob/master/foundryup/install) - This is the actual curl script
 
 
+Post execution of the above script, the following file is used to do the actual installation 
+
+File = [`foundryupz`](./c1/foudnryupz)
+- Note need to study what is happening in this file also 
+- This is also a bash file , for complex funtionality you will have to learn some bash scripting also 
+
+## Reference Source Dir 
+
+```sh 
+https://github.com/foundry-rs/foundry/tree/master/foundryup
+```
+- This is the main directory if the actual installation files that get download with the curl command 
+- See how there is mroe than one file , and then usre is asked to execute the file which is required
+
 
 ## Special Notes 
 
 1. The above `.sh` file is store as a github gist 
 2. You will need to understand how to write bash files, for this to be possible. 
 3. As of now its not priority to know ,put a pin in this and come back 
-
 
