@@ -98,3 +98,7 @@ echo "Then, simply run 'foundryup' to install Foundry."
 ## Special Notes 
 
 1. The above `.sh` file is store as a github gist 
+2. You will need to understand how to write bash files, for this to be possible. 
+3. As of now its not priority to know ,put a pin in this and come back 
+
+
